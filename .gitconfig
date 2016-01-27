@@ -1,6 +1,6 @@
 [lfs]
-	url = https://git-lfs-test.lsst.codes
+	url = https://aws-git-lfs.lsst.codes
 	batch = false
 
-[lfs "https://git-lfs-test.lsst.codes"]
+[lfs "https://aws-git-lfs.lsst.codes"]
 	access = none
